@@ -1,6 +1,6 @@
 # neoRAWRvim
 
-Proyecto de para el Segundo Trimestre.
+Proyecto para el Segundo Trimestre.
 
 Esta pagina a sido desarrollada con código abierto y mis conocimientos adquiridos en el modulo Lenguajes de marcas y sistemas de gestión de información. 
 
